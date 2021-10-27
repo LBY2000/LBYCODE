@@ -1,12 +1,17 @@
 # LBYCODE
 emm
 ====
-this is just a test for update readme file 
+<br>[超链接](https://blog.csdn.net/u013181595/article/details/80676590)<br>
+this is just a test for update readme file
 ???
+<br>[超链接](https://blog.csdn.net/u013181595/article/details/80676590)<br>
 * like a dot
 * another
 * to delete something ~~hello~~ everybody<br>
+
 try to create a<br> line feed <br>
+<br>[超链接](https://blog.csdn.net/u013181595/article/details/80676590)<br>
+
 ``` diff 
 + an add
 - a delete 
@@ -19,7 +24,12 @@ thank you
     return 0;
   }
 ```
-- [x] apple
-- [ ] pineapple
-<br>
-[超链接](https://blog.csdn.net/u013181595/article/details/80676590)
+- [ ] hello
+
+- [ ] hello
+
+
+<br>[超链接](https://blog.csdn.net/u013181595/article/details/80676590)<br>
+
+**做个删除线为啥就不行呢？？**
+
