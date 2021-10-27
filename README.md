@@ -23,4 +23,4 @@ thank you
 - [ ] pineapple
 <br>
 $\frac{1}{2}$
-
+~~尝试添加删除线~~  尝试没有删除线
