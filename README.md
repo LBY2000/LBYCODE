@@ -22,5 +22,4 @@ thank you
 - [x] apple
 - [ ] pineapple
 <br>
-$\frac{1}{2}$
-~~尝试添加删除线~~  尝试没有删除线
+![超链接](https://blog.csdn.net/u013181595/article/details/80676590)
